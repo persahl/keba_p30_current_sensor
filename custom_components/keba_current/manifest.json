@@ -1,0 +1,12 @@
+{
+  "domain": "keba_current",
+  "name": "KEBA P30 Current Sensor",
+  "codeowners": [
+    "@ludeeus"
+  ],
+  "config_flow": true,
+  "documentation": "https://github.com/persahl/keba_p30_current_sensor",
+  "iot_class": "cloud_polling",
+  "issue_tracker": "https://github.com/persahl/keba_p30_current_sensor/issues",
+  "version": "0.1.0"
+}
